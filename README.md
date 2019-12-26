@@ -1,7 +1,24 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+
 
 
 # Dicee 🎲
+
+
+Dicee, Challenge -4
+
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+
+[Appbrewery](https://www.appbrewery.co/): The Complete Flutter Development Bootcamp Using Dart 
+
+
+
+
+sample by [GDG Uzhhorod](https://github.com/GDG-Uzhhorod) / [BruSD](https://github.com/BruSD)
+
+[Check curse ->](https://www.appbrewery.co/courses/548873/)
+
+
 
 ## Our Goal
 
@@ -12,7 +29,7 @@ The objective of this tutorial is to introduce you to the core programming conce
 
 We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button. With this app in your pocket, you’ll be able to settle any score on the go!
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+
 
 ## What you will learn
 
