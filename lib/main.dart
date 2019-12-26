@@ -50,7 +50,7 @@ class _DicePageState extends State<DicePage> {
     );
   }
 
-  _updateDice() {
+  void _updateDice() {
     leftDiceNumber = Random().nextInt(6) + 1;
     rightDiceNumber = Random().nextInt(6) + 1;
     setState(() {});
